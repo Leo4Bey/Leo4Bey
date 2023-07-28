@@ -4,7 +4,7 @@ After learning most of the Python language, I want to create my own virtual assi
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/643473809663459357) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Leo4Bey)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TNNV6e8xdy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Leo4Code)
 [![Spotify](https://img.shields.io/badge/Spotify-%2314d800.svg?logo=spotify&logoColor=black)](https://open.spotify.com/artist/1JxLCaNLE8oRnmdE4RIDLB?si=jSTBkjKpSLO7iSvs12QHkA)
 
 
