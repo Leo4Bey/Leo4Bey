@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings, I am Leo 18 year old pursuing studies in computer engineering. Immersed in the realm of Python programming, I am diligently crafting elegant code snippets that not only enhance efficiency but also streamline tasks.
+Greetings, I am Leo 19 year old pursuing studies in computer engineering. Immersed in the realm of Python programming, I am diligently crafting elegant code snippets that not only enhance efficiency but also streamline tasks.
 
 Having acquired a comprehensive grasp of the Python language, my aspirations now encompass the creation of a personalized virtual assistant and an avant-garde cybersecurity toolkit. These undertakings stand as a testament to my ardor for technological innovation and my resolute commitment to carving a path in the dynamic landscape of computer engineering.
 
