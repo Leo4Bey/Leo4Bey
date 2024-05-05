@@ -3,7 +3,7 @@ Greetings, I am Leo 19 year old pursuing studies in computer engineering. Immers
 
 Having acquired a comprehensive grasp of the Python language, my aspirations now encompass the creation of a personalized virtual assistant and an avant-garde cybersecurity toolkit. These undertakings stand as a testament to my ardor for technological innovation and my resolute commitment to carving a path in the dynamic landscape of computer engineering.
 
-Merhaba, Ben Leo. 18 yaşındayım ve bilgisayar mühendisliği öğrencisiyim. Şu anda Python'da kodlar yazıyorum; bu kodlar hem işleri daha kolay ve kısa hale getiriyor hem de işlevselliği artırıyor.
+Merhaba, Ben Leo. 19 yaşındayım ve bilgisayar mühendisliği öğrencisiyim. Şu anda Python'da kodlar yazıyorum; bu kodlar hem işleri daha kolay ve kısa hale getiriyor hem de işlevselliği artırıyor.
 
 Python dilini büyük ölçüde öğrendikten sonra, kendi özelleştirilmiş sanal asistanımı ve son teknoloji siber güvenlik araçlarımı oluşturma hedefi güdüyorum. Bu projeler, teknolojik yeniliklere olan tutkumun bir ifadesi olarak ön plana çıkıyor ve bilgisayar mühendisliğinin dinamik dünyasında kendi izimi bırakma konusundaki kararlılığımı yansıtıyor.
 
