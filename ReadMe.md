@@ -9,7 +9,7 @@ Python dilini büyük ölçüde öğrendikten sonra, kendi özelleştirilmiş sa
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TNNV6e8xdy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Leo4Code)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Leo4Code)
 
 
 # 💻 Tech Stack:
